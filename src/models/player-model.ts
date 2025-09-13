@@ -6,7 +6,7 @@ export interface PlayerModel {
   position: string;
   stats: {
     drible: number;
-    finalizacao: number;
+    final: number;
     marcacao: number;
     passe: number;
     defesa: number;
